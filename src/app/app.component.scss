@@ -1,0 +1,39 @@
+.tile-image {
+  width: 100%;
+  height: auto;
+}
+
+.show-display {
+  border-radius: 50%;
+  box-shadow: 2px 1px 8px 2px #8B8383;
+}
+
+.display-block {
+  display: inline-grid;
+  margin-left: 25px;
+}
+
+.display-name {
+  font-size: 26px;
+  font-weight: 800;
+  color: #494747;
+}
+
+.display-position {
+  font-size: 20px;
+  font-weight: 700;
+  color: #f47933;
+}
+
+.display-ss-type {
+  font-size: 16px;
+  font-weight: 600;
+  color: #989696;
+}
+
+.inside-contact {
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #494747;
+}
