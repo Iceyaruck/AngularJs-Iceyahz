@@ -75,3 +75,22 @@ body {
   padding: 0.25em 0 !important;
   border-top: 0.84375em solid transparent;
 }
+
+.mat-tab-list {
+  font-family: 'Prompt', 'sans-serif' !important;
+}
+
+.mat-tab-label {
+  font-weight: 600;
+  font-size: 16px;
+  color: #FE5D20;
+  font-family: 'Prompt', 'sans-serif' !important;
+}
+
+.mat-tab-group {
+  font-family: 'Prompt', 'sans-serif' !important;
+}
+
+.mat-tab-group.mat-primary .mat-ink-bar, .mat-tab-nav-bar.mat-primary .mat-ink-bar {
+  background-color: #FE5D20;
+}

@@ -37,3 +37,38 @@
   font-weight: 600;
   color: #494747;
 }
+
+.title {
+  margin: 20px 20px 10px 20px;
+
+  mat-icon {
+    color: #8B8383;
+  }
+
+  h4 {
+    padding-left: 15px;
+    display: inline-block;
+    color: #FE5D20;
+    margin: 0px !important;
+  }
+}
+
+.title-2 {
+  margin-right: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #3C4142;
+}
+
+.title-2.text-left {
+  position: absolute;
+  left: 5px;
+}
+
+.content {
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: white;
+  border: 2px solid #E7E7E7;
+  border-radius: 4px;
+}
